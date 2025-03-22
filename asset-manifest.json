@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/dress-shop/static/css/main.4b6d9cf3.css",
-    "main.js": "/dress-shop/static/js/main.eca15398.js",
+    "main.css": "/dress-shop/static/css/main.ef3747cf.css",
+    "main.js": "/dress-shop/static/js/main.6b44261c.js",
     "static/js/453.d855a71b.chunk.js": "/dress-shop/static/js/453.d855a71b.chunk.js",
     "static/media/10001.gif": "/dress-shop/static/media/10001.fb67560402db1662507e.gif",
     "static/media/women5.jpg": "/dress-shop/static/media/women5.28f353e1210979fb889b.jpg",
@@ -35,12 +35,12 @@
     "static/media/insta.png": "/dress-shop/static/media/insta.d09e0d6e6ff5fcacfa7e.png",
     "static/media/removeicon.png": "/dress-shop/static/media/removeicon.e63f5479f691d61751a5.png",
     "index.html": "/dress-shop/index.html",
-    "main.4b6d9cf3.css.map": "/dress-shop/static/css/main.4b6d9cf3.css.map",
-    "main.eca15398.js.map": "/dress-shop/static/js/main.eca15398.js.map",
+    "main.ef3747cf.css.map": "/dress-shop/static/css/main.ef3747cf.css.map",
+    "main.6b44261c.js.map": "/dress-shop/static/js/main.6b44261c.js.map",
     "453.d855a71b.chunk.js.map": "/dress-shop/static/js/453.d855a71b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4b6d9cf3.css",
-    "static/js/main.eca15398.js"
+    "static/css/main.ef3747cf.css",
+    "static/js/main.6b44261c.js"
   ]
 }
